@@ -398,6 +398,7 @@ div#map {
         padding: 0 30px 30px;
         float: none;
         display: table-cell;
+        width: auto; 
     }
 
     .center-form {
